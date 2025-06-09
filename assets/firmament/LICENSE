@@ -1,0 +1,5 @@
+Most of this mod is licensed under a GPL-3.0-or-later license. Some resources may also be licensed using creative
+commons licenses. You can use the [reuse](https://github.com/fsfe/reuse-tool) spec to check the concrete licenses for
+each file. See the licenses folder for the concrete license terms of each license.
+
+To generate a full license report of all dependencies, execute `./gradlew :printAllLicenses`.
