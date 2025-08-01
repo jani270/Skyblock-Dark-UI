@@ -4,7 +4,7 @@
     "description": "A Dark Overlay for Hypixel Skyblock by jani270",
     "supported_formats": {
       "min_inclusive": 54,
-      "max_inclusive": 55
+      "max_inclusive": 64
     }
   }
 }
